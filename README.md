@@ -2,7 +2,7 @@
 # Welcome to my profile :)
 
 # 💫 About Me:
-I'm a full-stack developer that is well-versed in wide range of disciplines:<br>* Software Design<br>* Parallel Computing<br>* Database Systems<br>* Mobile and Web Development<br>* Backend Development<br>* Machine Learning<br>* Data Structures and Algorithms<br><br>I'm currently working on an Online Tournament Platform that can host a number of different games as well as players.<br>This platform uses Peer-to-Peer networking to pair each player in the tournament and is based on a Client-Server architecture.<br>
+I'm a full-stack developer and well-versed in wide range of disciplines:<br>* Software Design<br>* Parallel Computing<br>* Database Systems<br>* Mobile and Web Development<br>* Backend Development<br>* Machine Learning<br>* Frontend Development<br>* Data Structures and Algorithms<br><br>I'm currently working on an Online Tournament Platform that can host a number of different games as well as players.<br>This platform uses Peer-to-Peer networking to pair each player in the tournament and is based on a Client-Server architecture.<br>
 
 
 ## 🌐 Socials:
